@@ -1,6 +1,6 @@
 # ChromaWheel: The Interactive Chord Visualizer
 
-[cloudflarebutton]
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/IkarosDigital/chromawheel-the-interactive-chord-visualizer)
 
 ChromaWheel is a sophisticated, visually stunning web application for musicians, producers, and students to explore, visualize, and interact with musical chords and scales. Built on a minimalist design philosophy, it presents complex music theory in an intuitive, beautiful interface. The core of the application is an interactive SVG-based wheel, rendered with D3.js, that can be toggled between a Circle of Fifths and a Chromatic layout. Users can select a root note and chord type, and the wheel instantly animates to highlight the constituent notes, showing their relationships and intervals. The application features a built-in polyphonic synthesizer using the Web Audio API, allowing users to hear chords and notes as they interact. It supports real-time input from both computer keyboards and MIDI devices, providing immediate visual and auditory feedback. Finally, users can export their creations as high-resolution PNG images or standard MIDI files for use in other software.
 
@@ -96,7 +96,7 @@ This project is configured for seamless deployment to Cloudflare Pages.
 
 Alternatively, you can connect your GitHub repository to Cloudflare Pages for automatic deployments on every push.
 
-[cloudflarebutton]
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/IkarosDigital/chromawheel-the-interactive-chord-visualizer)
 
 ## Browser Support
 
